@@ -551,7 +551,7 @@ Every generated agreement must include:
 
 ## Licensing & IP
 
-**IP Rights**: 50% Tyler Colby, 50% [Tiffany - pending negotiation]
+**IP Rights**: 50% Tyler Colby, 50% [PRIVATE PARTY - pending negotiation]
 
 **License Strategy**:
 - Core game: Open source (MIT or similar)
